@@ -1,0 +1,19 @@
+#logoBar{
+    margin: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    
+}
+
+body{
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+white{
+    color:white
+}
