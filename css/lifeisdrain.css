@@ -7,6 +7,10 @@
     
 }
 
+.uh{
+    position: relative;
+}
+
 body{
     background: black;
     display: flex;
@@ -14,9 +18,22 @@ body{
     align-items: center;
 }
 
-white{
+.white{
     color:white
+}
+.pink{
+    color:rgb(247,33,189)
 }
 h1{
     color:white
+}
+
+#footer {
+    position: fixed;
+    width: 100%;
+    margin-top: 900px;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-left: 540;
+    height: 100px;
 }
